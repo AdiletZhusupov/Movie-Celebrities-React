@@ -1,2 +1,2 @@
 # Movie-Celebrities-React
-Created with CodeSandbox
+Demo: https://csb-xvw68t.netlify.app/
